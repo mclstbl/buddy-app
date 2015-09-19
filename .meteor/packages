@@ -13,3 +13,5 @@ jquery
 bootstrap
 iron:router
 twbs:bootstrap
+semantic:ui-sidebar
+ajduke:bootstrap-tagsinput
