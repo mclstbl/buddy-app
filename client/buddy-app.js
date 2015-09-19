@@ -7,6 +7,9 @@ Router.route('/profile', {
 Router.route('/match', {
     template: 'match'
 });
+Router.route('/signup', {
+    template: 'signup'
+});
 
 if (Meteor.isClient) {
 
