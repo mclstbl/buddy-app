@@ -16,3 +16,9 @@ twbs:bootstrap
 semantic:ui-sidebar
 ajduke:bootstrap-tagsinput
 fortawesome:fontawesome
+mdg:geolocation
+reactive-var
+meteor
+dburles:google-maps
+underscore
+templating
