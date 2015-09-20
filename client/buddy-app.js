@@ -7,12 +7,11 @@ Router.route('/profile', {
 Router.route('/match', {
     template: 'match'
 });
-Router.route('/signup', {
-    template: 'signup'
-});
+
+Users = new Mongo.Collection('tags');
 
 if (Meteor.isClient) {
-
+  
 }
 
 

@@ -1,5 +1,17 @@
-.jumbotron {
-	margin-left: -15px;
+
+.jumbotron-home-text {
+	position: relative;
+	top: -20px;
+	color: black;
+	text-align: center;
+}
+
+.jumbotron-home-img {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 590px;
+	height: 480;
 }
 
 .matched-pic {
