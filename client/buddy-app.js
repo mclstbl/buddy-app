@@ -12,6 +12,8 @@ Users = new Mongo.Collection('tags');
 
 if (Meteor.isClient) {
   
+  Template.profile.name = "Bob Smith";
+  
 }
 
 
